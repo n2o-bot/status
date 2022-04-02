@@ -76,19 +76,19 @@
     "url": "https://blumen-roettger.de",
     "icon": "https://favicons.githubusercontent.com/blumen-roettger.de",
     "slug": "blumen-roettger",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 518,
-    "timeDay": 479,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 580,
+    "timeDay": 593,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-02": 18
     }
   },
   {
