@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5252,
-    "timeDay": 24331,
-    "timeWeek": 24080,
-    "timeMonth": 8756,
-    "timeYear": 5252,
+    "time": 5903,
+    "timeDay": 24269,
+    "timeWeek": 24158,
+    "timeMonth": 10289,
+    "timeYear": 5903,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 921,
-    "timeWeek": 864,
-    "timeMonth": 836,
-    "timeYear": 824,
+    "time": 834,
+    "timeDay": 1282,
+    "timeWeek": 946,
+    "timeMonth": 854,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 1229,
-    "timeWeek": 879,
-    "timeMonth": 785,
-    "timeYear": 796,
+    "time": 806,
+    "timeDay": 1222,
+    "timeWeek": 981,
+    "timeMonth": 803,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "https://ighasten.de",
     "icon": "https://favicons.githubusercontent.com/ighasten.de",
     "slug": "ig-hasten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1456,
-    "timeWeek": 1191,
-    "timeMonth": 1102,
-    "timeYear": 1113,
-    "dailyMinutesDown": {}
+    "time": 1114,
+    "timeDay": 1122,
+    "timeWeek": 1193,
+    "timeMonth": 1108,
+    "timeYear": 1114,
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   },
   {
     "name": "Blumen Röttger",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 716,
-    "timeDay": 997,
-    "timeWeek": 756,
-    "timeMonth": 692,
-    "timeYear": 716,
+    "time": 724,
+    "timeDay": 1132,
+    "timeWeek": 818,
+    "timeMonth": 707,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2022-04-02": 18
     }
@@ -102,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 525,
-    "timeWeek": 498,
-    "timeMonth": 652,
-    "timeYear": 577,
+    "time": 581,
+    "timeDay": 829,
+    "timeWeek": 568,
+    "timeMonth": 667,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   }
 ]
