@@ -1,5 +1,5 @@
 # Change these first
-owner: n2o # Your GitHub organization or username, where this repository lives
+owner: n2o-bot # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -15,6 +15,11 @@ sites:
     url: https://blumen-roettger.de
   - name: GUHEMA
     url: http://guhema.de
+  - name: Bohm Bedachungen
+    url: https://bohm-bedachungen.de
+    
+assignees:
+  - n2o
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,8 +29,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   theme: dark
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status Page"
+  introMessage: Check status of services.
   navbar:
     - title: Status
       href: /
