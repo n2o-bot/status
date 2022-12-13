@@ -13,7 +13,7 @@
     "time": 13709,
     "timeDay": 1525,
     "timeWeek": 17587,
-    "timeMonth": 16759,
+    "timeMonth": 17259,
     "timeYear": 13709,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 836,
     "timeDay": 836,
     "timeWeek": 880,
-    "timeMonth": 799,
+    "timeMonth": 797,
     "timeYear": 836,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 828,
     "timeDay": 738,
     "timeWeek": 843,
-    "timeMonth": 789,
+    "timeMonth": 785,
     "timeYear": 828,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1122,
     "timeDay": 976,
     "timeWeek": 1097,
-    "timeMonth": 1083,
+    "timeMonth": 1076,
     "timeYear": 1122,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 740,
     "timeDay": 601,
     "timeWeek": 723,
-    "timeMonth": 671,
+    "timeMonth": 670,
     "timeYear": 740,
     "dailyMinutesDown": {}
   },
@@ -94,17 +94,17 @@
     "url": "http://guhema.de",
     "icon": "https://icons.duckduckgo.com/ip3/guhema.de.ico",
     "slug": "guhema",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 4407,
-    "timeWeek": 2727,
-    "timeMonth": 1299,
-    "timeYear": 641,
+    "time": 691,
+    "timeDay": 5481,
+    "timeWeek": 3484,
+    "timeMonth": 1654,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
@@ -121,7 +121,7 @@
     "time": 719,
     "timeDay": 617,
     "timeWeek": 687,
-    "timeMonth": 658,
+    "timeMonth": 655,
     "timeYear": 719,
     "dailyMinutesDown": {}
   }
