@@ -112,7 +112,7 @@
     "url": "https://bohm-bedachungen.de",
     "icon": "https://icons.duckduckgo.com/ip3/bohm-bedachungen.de.ico",
     "slug": "bohm-bedachungen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -122,7 +122,7 @@
     "timeDay": 535,
     "timeWeek": 710,
     "timeMonth": 667,
-    "timeYear": 709,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   }
 ]
